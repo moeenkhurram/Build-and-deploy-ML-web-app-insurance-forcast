@@ -1,5 +1,5 @@
 # Build and deploy ML web app for Insurance Forcast
-https://deploy-insurance-prediction.herokuapp.com/
+[Live app on Heraku](https://deploy-insurance-prediction.herokuapp.com/)
 
 Dataset: [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance)
 
